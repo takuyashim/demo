@@ -1,3 +1,3 @@
 hmmm
 this is read me.
-hello this is difftool testttttttt
+this is really bad edit here. 
